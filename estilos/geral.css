@@ -1,8 +1,28 @@
-#topo{
-    width: 100%;
-    height:230px;
-    /*border: 2px solid #228b22 ;*/
-}
 #body{
     background-color: rgba(19, 94, 107, 0.288);
+}
+#topo{
+    width:100%;
+    height: 50px;
+    border:1px solid #3F71AB; 
+    background-color:#98BBE3 ;
+    background-image: image('');
+    float:left;  
+}
+#logo{
+    float: left;
+}
+#titulo{
+   width: 250px;
+   height:50px;
+   font-size: 15px;
+   font-family:Verdana, Geneva, Tahoma, sans-serif;
+   margin-left:50px;
+   margin-top: 15px;
+}
+#area{
+   
+
+    border:1px solid blue;
+    margin-top:5px;
 }
